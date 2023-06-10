@@ -1,0 +1,4 @@
+enum Saleability {
+  forSale,
+  notForSale,
+}
